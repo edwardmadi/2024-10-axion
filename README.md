@@ -1,5 +1,5 @@
 
-# Deus contest details
+# AXION contest details
 
 - Join [Sherlock Discord](https://discord.gg/MABEWyASkp)
 - Submit findings using the issue page in your private contest repo (label issues as med or high)
@@ -12,7 +12,7 @@ The smart contracts can potentially be implemented on any full-EVM chain.
 Currently: Sonic, Base, Blast, Thena, Scroll —— Optimism, Mantle, X Layer and Bera are also close to our ecosystem thus possible.
 
 The AMO implementation is Dex-specific more than chain-specific.
-The Solidity Utils contract are simple wrappers around Solidly escrow/coding contrats, which also need Dex-specific implementations
+The Solidity Utils contract are simple wrappers around escrow/coding contrats, which also need Dex-specific implementations
 
 
 ___
