@@ -86,6 +86,9 @@ https://typefully.com/t/2Ea9o1T
 https://x.com/omazett/status/1838629900259070244
 
 
+### Q: Additional audit information.
+
+Additional info about the Axion protocol can be found here https://sticky-yarrow-52e.notion.site/AXION-Audit-Documentation-11bb3e443073802c949bd3700abad968?pvs=4
 
 
 
