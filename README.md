@@ -69,7 +69,7 @@ The acceptable risk is that the paired USD token itself depegs. This will cause 
 ___
 
 ### Q: We will report issues where the core protocol functionality is inaccessible for at least 7 days. Would you like to override this value?
-BOOST will be traded on third-party Dexes, AXION cannot be DDOSed.
+Yes, 3 days
 
 ___
 
